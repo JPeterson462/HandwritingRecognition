@@ -1,0 +1,6 @@
+1. Reading single characters
+2. Selecting most probable words from string of character predictions
+3. Selecting individual character images from image
+4. Converting image into probable words
+5. Selecting most probable sentence from most probable words
+6. Applying filters to CAPTCHA to determine characters (for simple color-based or layered CAPTCHAs)
