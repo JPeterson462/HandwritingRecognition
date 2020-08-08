@@ -1,4 +1,4 @@
-1. Reading single characters
+1. (DONE) Reading single characters
 2. Selecting most probable words from string of character predictions
 3. Selecting individual character images from image
 4. Converting image into probable words
