@@ -1,1 +1,4 @@
 https://lionbridge.ai/datasets/15-best-ocr-handwriting-datasets/
+
+https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5
+https://towardsdatascience.com/word-beam-search-a-ctc-decoding-algorithm-b051d28f3d2e
